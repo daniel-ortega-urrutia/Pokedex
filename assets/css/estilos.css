@@ -1,0 +1,33 @@
+body{
+    font-family: 'Architects Daughter', cursive;   
+}
+footer a i{
+    color: black;
+}
+nav {
+    font-family:'Architects Daughter' ;
+    font-size: 40px;
+    font-weight: 1000;
+}
+nav a img{
+    width: 150px;
+}
+div h1{
+    font-weight: 500;
+}
+
+.form-control{
+    
+    margin-left: 0px;
+}
+ form div input{
+    display: block;   
+     
+} 
+.label{
+    text-align: right;
+    font-weight: 700;
+}
+.btn-ingresa{
+    position: relative;
+}
